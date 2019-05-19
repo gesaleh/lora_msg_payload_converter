@@ -9,3 +9,4 @@ in application configuration you have the choice
 
 Use Custom javascript here you can write your own decoder and encoder
 
+Check [Example](decode.js) 
