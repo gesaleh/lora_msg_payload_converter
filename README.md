@@ -9,4 +9,4 @@ in application configuration you have the choice
 
 Use "Custom JavaScript" using this option you can write your own payload decoder (device->server) and encoder (server->device)
 
-Check [Example](decode.js) 
+Check [Example](https://github.com/gesaleh/lora_msg_payload_converter/blob/master/decoder.js) 
