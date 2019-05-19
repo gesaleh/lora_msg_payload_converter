@@ -7,6 +7,6 @@ in application configuration you have the choice
 2. CayenneLPP
 3. Custom JavaScript
 
-Use Custom javascript here you can write your own decoder and encoder
+Use "Custom JavaScript" using this option you can write your own decoder and encoder
 
 Check [Example](decode.js) 
